@@ -15,6 +15,7 @@ Buradaki projeler öğrenme sürecimin bir parçası. Yeni desenler öğrendikç
 | Tasarım Deseni | Proje | Açıklama |
 |---|---|---|
 | Singleton | [101 Okey Taş Havuzu](./Okey101Singleton/) | Tek bir masada ortak kullanılan taş havuzunun yönetimi |
+| Factory Method | [Dungeon Loot System](./HazineSandigiFactory/) | Farklı sandıklardan rastgele eşyalar üreten RPG envanter simülasyonu |
 
 Yeni tasarım desenleri öğrendikçe buraya eklemeye devam edeceğim.
 
